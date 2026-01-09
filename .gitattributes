@@ -1,4 +1,2 @@
-*.c linguist-language=C
-*.h linguist-language=C
 *.ml linguist-language=OCaml
 *.mli linguist-language=OCaml
